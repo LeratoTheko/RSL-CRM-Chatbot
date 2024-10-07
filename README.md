@@ -28,7 +28,7 @@ Model Training: TensorFlow and Hugging Face transformers library
 
 **Installation**
 **1. Clone Repository**
-  git clone https://github.com/your-username/generative-ai-crm-chatbot.git
+  git clone https://github.com/LeratoTheko/RSL-CRM-Chatbot.git
   cd generative-ai-crm-chatbot
 **2. Install Dependencies**
   pip install -r requirements.txt
